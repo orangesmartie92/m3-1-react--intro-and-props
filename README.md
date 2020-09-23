@@ -61,9 +61,7 @@ To bootstrap this workshop, we've created several JS and CSS files:
 
 `components` holds our set of components, with 1 JS and 1 CSS file per component. If we want to style the Header component, we'd put those styles in `Header.css`.
 
-Our initial state gives us a loose structure, but very little in the way of UI:
-
-![blank page with subtle gray header](./__lecture/assets/initial-state.png)
+Our initial state gives us a loose structure, but very little in the way of UI.
 
 Your job will be to build this out, using the structure provided!
 
@@ -92,7 +90,7 @@ This data is defined in `src/data.js`. It's some fake data we can use to populat
 Our `App` component, in `src/components/App.js`, renders the following:
 
 ```jsx
-<div className='wrapper'>
+<div className="wrapper">
   <Header />
   <ChatStream />
   <Footer />
