@@ -1,4 +1,4 @@
-# Module 4.1 Intro to React and Props
+# 3-1 - Intro to React and Props
 
 ## Setup
 
