@@ -4,7 +4,7 @@ In the "drawing boxes" exercise in class, we learned that repeated chunks of mar
 
 In the iMessage screenshot, it seems like each message should be its own component! Let's create one.
 
-Create two new files, `src/ChatMessage.js` and `src/ChatMessage.css`. Write the following into the .js file
+Create two new files, `src/components/ChatMessage.js` and `src/components/ChatMessage.css`. Write the following into the .js file
 
 > **✋ Please do NOT copy/paste!** You'll write _a lot_ of new components over this module. It's worth taking the time to get used to writing them out.
 
