@@ -1,6 +1,11 @@
+.side-by-side{
+  display: flex;
+}
 .wrapper {
   font-family: sans-serif;
-  min-height: 100vh;
+  height: 100vh;
   display: flex;
   flex-direction: column;
+  position: relative;
+  flex: 1;
 }

@@ -8,3 +8,15 @@ header {
   box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.15),
     0px 1px 0.5px rgba(0, 0, 0, 0.075);
 }
+
+.participant{
+  display: inline-block;
+  margin-right: 10px;
+}
+.participant:last-child{
+  margin: 0;
+}
+.participants{
+  padding: 10px;
+  text-align: center;
+}

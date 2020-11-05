@@ -1,0 +1,15 @@
+
+.avatar{
+    display: inline-flex;
+    flex-direction: column;
+}
+.avatar img{
+    border-radius: 100%;
+    height: 50px;
+}
+
+.avatar .username{
+    margin-top: 10px;
+    font-size: 12px;
+    text-align: center;
+}

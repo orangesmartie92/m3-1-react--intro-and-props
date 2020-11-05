@@ -1,0 +1,40 @@
+.chat-message{
+    display: flex;
+    align-items: flex-end;
+    padding: 10px;
+}
+
+.message{
+    margin-left: 10px;
+}
+
+.chat-message .username{
+    margin: 5px 10px;
+}
+
+.bubble{
+    position: relative;
+    padding: 10px;
+    background: #eee;
+    border-radius: 40px;
+}
+.bubble-tip{
+    position: absolute;
+    bottom: 0;
+    z-index: -1;
+}
+.sent .bubble-tip{
+    right: 0;
+}
+.received .bubble-tip{
+    left: 0;
+}
+.sent .bubble{
+    background: rgb(30, 146, 235);
+    color: white;
+}
+
+
+.chat-message.sent{
+    justify-content: flex-end;
+}

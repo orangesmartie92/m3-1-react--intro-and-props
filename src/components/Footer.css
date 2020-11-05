@@ -5,4 +5,14 @@ footer {
   */
   backdrop-filter: blur(40px);
   background-color: rgba(255, 255, 255, 0.4);
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  padding: 10px 30px;
+}
+
+.chat-message.input{
+  border-radius: 40px;
+  border: 1px solid #ccc;
+  width: 100%;
 }
