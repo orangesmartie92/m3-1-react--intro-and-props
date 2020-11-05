@@ -16,7 +16,7 @@ An _open-source project_ built and maintained by **facebook**.
 
 ### Super popular!
 
-<img src='./assets/npm-trends.png' />
+https://www.npmtrends.com/angular-vs-react-vs-vue
 
 ---
 
